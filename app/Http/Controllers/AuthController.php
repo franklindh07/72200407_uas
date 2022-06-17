@@ -117,7 +117,7 @@ class AuthController extends Controller
     public function logout()
     {
         Auth::logout();
-        return redirect('/login')->with('error', 'Berhasil Logout');;
+        return redirect('/')->with('error', 'Berhasil Logout');;
     }
 
     public function registrasi()
@@ -169,7 +169,7 @@ class AuthController extends Controller
 
         User::create($validateData);
 
-        return redirect('/login')->with('success', 'Registrasi Berhasil');
+        return redirect('/')->with('success', 'Registrasi Berhasil');
     }
   
     
