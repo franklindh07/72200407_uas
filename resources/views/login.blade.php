@@ -74,7 +74,7 @@ p {
     <button class="w-100 btn btn-lg btn-primary" type="submit">Login</button>
   
     <p class="mt-5 mb-3 text-muted">Belum punya akun? Silahkan <a href="/registrasi"> registrasi</a></p>
-    <p class="mt-5 mb-3 text-muted">List Mahasiswa<a href="https://private-3bb77-fefeffe.apiary-mock.com/mahasiswa/all"> API</a> </p>
+    <p class="mt-5 mb-3 text-muted">List Mahasiswa<a href="https://documenter.getpostman.com/view/21516922/UzBjtoKN"> API</a> </p>
     <p class="mt-5 mb-3 text-muted">72200407 - Franklin David Hengkengbala</p>
   
    
