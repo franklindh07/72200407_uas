@@ -7,3 +7,4 @@
 - List Mahasiswa API
 
 
+*jika tidak bisa membuka website, mungkin terkendala bagian firewall dari antivirus, dan safety browser
